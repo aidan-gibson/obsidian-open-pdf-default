@@ -1,3 +1,13 @@
+Obsidian PDF viewing kinda sucks. I'd rather view with my default app and not dig through the context menu to do so.
+
+on click
+if ends in .pdf && not a url
+stopProp
+context menu > open in default app
+
+
+
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
